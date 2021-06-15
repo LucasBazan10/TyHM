@@ -5,7 +5,8 @@
 #### Creare una carpeta para el CV y otra carpeta para el capitulo del libro
 
 
-# Repositorio de GitHub <h6> Les dejo el link de mi repositorio haciendo clic en la imagen </h6>
+# Repositorio de GitHub 
+#### Les dejo el link de mi repositorio haciendo clic en la imagen 
   
 <a href="https://github.com/LucasBazan10/TyHM/blob/main/CV.pdf">
 <img src="https://user-images.githubusercontent.com/85941704/122065403-4afa4100-cdc8-11eb-8de9-3bccc15d16e6.png" alt="cv" width="300px">
