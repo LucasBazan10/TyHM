@@ -13,6 +13,7 @@
 
 # Traducción del capítulo 9 
 <p>Traducción y resumen sobre la descarbonización</p>
+<a href="https://github.com/LucasBazan10/TyHM/blob/main/Web/Capitulo9Traducido.pdf">
 <img src="https://user-images.githubusercontent.com/85941704/122068878-22277b00-cdcb-11eb-90f4-4b0a61d83e0b.jpeg" alt="Traducción" width="300px">
-  
+</a>
 
