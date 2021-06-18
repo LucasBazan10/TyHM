@@ -8,7 +8,7 @@
 # Repositorio de GitHub 
 #### Les dejo el link de mi repositorio haciendo clic en la imagen 
   
-<a href="https://github.com/LucasBazan10/TyHM/blob/main/CV.pdf">
+<a href="https://github.com/LucasBazan10/TyHM/blob/main/CAPITULO_9_CORREGIDO.pdf">
 <img src="https://user-images.githubusercontent.com/85941704/122065403-4afa4100-cdc8-11eb-8de9-3bccc15d16e6.png" alt="cv" width="300px">
 </a>
 
